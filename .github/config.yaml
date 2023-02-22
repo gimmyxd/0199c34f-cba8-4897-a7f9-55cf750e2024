@@ -1,3 +1,3 @@
-server: registry.eng.aserto.com
-username: gimmyxd
-repo: gimmyxd/asdasdasdas
+server: registry.prod.aserto.com
+username: gimmyorg
+repo: gimmyorg/test123
